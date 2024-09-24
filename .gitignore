@@ -1,0 +1,6 @@
+*.pyc
+*.obj
+*.egg-info
+dist/
+build/
+build_script.py

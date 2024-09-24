@@ -6,7 +6,7 @@ no dependencies.
 
 With a test to make sure the object you write can be read and returns the same data:
 
-(also this is how you use it:
+(also this is how you use it)
 
 
 ```
